@@ -1,0 +1,16 @@
+Flask[async]
+-q -U google-generativeai
+python-dotenv
+markdown
+pdfkit
+langgraph
+tavily-python
+-qU langchain-openai
+typing_extensions
+-qU langchain-google-vertexai
+google-auth-oauthlib
+-qU langchain_community
+pypdf2
+langchain
+langchain-google-genai 
+#faiss-cpu
